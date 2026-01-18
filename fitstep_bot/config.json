@@ -1,0 +1,6 @@
+{
+    "bot_token": "from_env",
+    "admin_id": "from_env",
+    "update_interval": 2,
+    "api_url": "https://api.telegram.org/bot"
+}
